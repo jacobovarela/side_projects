@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ITunes_logo.svg" style="float: left; margin: 40px; height: 55px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ITunes_logo.svg" width="10" height="10">
 
 # iTunes EDA
 
